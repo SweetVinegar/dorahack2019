@@ -13,4 +13,4 @@
 
 ## 希望借此能帮助慈善过程不论多少的信息不对称，都能将物资送到该需要的儿童手上。
 
-[https://org.modao.cc/app/d7ef84c6859994f7cbbc0e270b25631f]](DEMO)
+[DEMO](https://org.modao.cc/app/d7ef84c6859994f7cbbc0e270b25631f)
